@@ -41,9 +41,6 @@ Okt Feb 2023
 
 11:10		Backup and Disaster Recovery
 
-11:40		OpenShift from a security perspective
-		Advanced Security Management for Kubernetes 
-
 12:10		Break
 
 13:10		OpenShift Virtualisation
