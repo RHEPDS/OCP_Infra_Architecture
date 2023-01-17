@@ -2,14 +2,19 @@
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version
+## remote version V0223
 
 ## https://www.menti.com/wq7y7j1wjd
 
-Okt Feb 2023
+## Self learning Sessions
+
+### DO180 Red Hat OpenShift I: Containers & Kubernetes 
+### https://connect.redhat.com/en/training/course-catalog?m=c&id=45314150&utm_source=LOC
+
+### DO280 Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster
+### https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
 
 ## Agenda:
-
 
 ### Day 1:
 
