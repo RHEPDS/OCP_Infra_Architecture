@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 568px;
+  min-height: 664px;
 }
 
 .u-section-1 .u-image-1 {
@@ -13,20 +13,21 @@
 }
 
 .u-section-1 .u-group-1 {
-  width: 570px;
-  min-height: 462px;
+  width: 606px;
+  min-height: 433px;
   height: auto;
-  margin: -436px auto 35px 82px;
+  margin: -391px auto 60px 36px;
 }
 
 .u-section-1 .u-container-layout-1 {
   padding-top: 0;
+  padding-bottom: 0;
 }
 
 .u-section-1 .u-image-2 {
-  width: 149px;
-  height: 103px;
-  margin: 28px auto 0;
+  width: 204px;
+  height: 154px;
+  margin: -71px auto 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -35,24 +36,18 @@
   margin: 20px 20px 0;
 }
 
-.u-section-1 .u-image-3 {
-  width: 292px;
-  height: 218px;
-  margin: -370px 131px 0 auto;
-}
-
 .u-section-1 .u-text-2 {
   font-size: 1.875rem;
   letter-spacing: 2px;
   font-weight: 700;
-  margin: 164px 20px 0;
+  margin: 13px 20px 0;
 }
 
 .u-section-1 .u-line-1 {
   width: 102px;
   height: 10px;
   transform-origin: left center 0px;
-  margin: 34px auto 0;
+  margin: 53px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -63,7 +58,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 476px;
+    min-height: 572px;
   }
 
   .u-section-1 .u-image-1 {
@@ -73,25 +68,25 @@
 
   .u-section-1 .u-group-1 {
     width: 540px;
-    margin-top: -344px;
+    margin-top: -299px;
     margin-left: 0;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 336px;
+    min-height: 432px;
   }
 
   .u-section-1 .u-image-1 {
@@ -101,22 +96,11 @@
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: -204px;
+    margin-top: -159px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3rem;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-image-3 {
-    margin-right: 48px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
   }
 } .u-section-2 {
   min-height: 573px;
