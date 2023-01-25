@@ -39493,19 +39493,16 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
  .u-header {
   background-image: none;
-}
-
-.u-header .u-sheet-1 {
   min-height: 95px;
 }
 
 .u-header .u-text-1 {
   font-size: 1.5rem;
-  margin: 11px 109px 0 801px;
+  margin: 36px auto 0 calc(((100% - 1140px) / 2) + 80px);
 }
 
 .u-header .u-menu-1 {
-  margin: -47px auto 24px 28px;
+  margin: -35px auto 0 calc(((100% - 1140px) / 2) + 28px);
 }
 
 .u-header .u-nav-2 {
@@ -39513,35 +39510,71 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 95px;
-  left: auto;
-  right: 0;
+  width: 476px;
+  height: 74px;
+  margin: -61px 0 10px auto;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
-    margin-right: 9px;
-    margin-left: 701px;
+    margin-left: calc(((100% - 1140px) / 2) + 280px);
   }
 
   .u-header .u-menu-1 {
-    margin-top: -47px;
-    margin-left: 28px;
+    margin-left: calc(((100% - 1140px) / 2) + 228px);
+  }
+
+  .u-header .u-image-1 {
+    margin-top: -61px;
+    margin-right: calc(((100% - 1140px) / 2) + 36px);
+    margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-text-1 {
-    margin-right: 0;
-    margin-left: 490px;
+    margin-left: calc(((100% - 1140px) / 2) + 500px);
+  }
+
+  .u-header .u-menu-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 448px);
+  }
+
+  .u-header .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 146px);
   }
 }
 @media (max-width: 767px) {
   .u-header .u-text-1 {
-    margin-left: 310px;
+    margin-left: calc(((100% - 1140px) / 2) + 680px);
+  }
+
+  .u-header .u-menu-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 488px);
+    margin-left: auto;
+  }
+
+  .u-header .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 236px);
+    margin-bottom: 10px;
   }
 }
 @media (max-width: 575px) {
+   .u-header {
+    min-height: 74px;
+  }
+
   .u-header .u-text-1 {
-    margin-left: 110px;
+    margin-left: calc(((100% - 1140px) / 2) + 880px);
+  }
+
+  .u-header .u-menu-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 288px);
+  }
+
+  .u-header .u-image-1 {
+    width: 340px;
+    height: 53px;
+    margin-right: auto;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 }
 .u-footer .u-sheet-1 {
