@@ -41,19 +41,21 @@
 
 9:10		OpenShift Install		
 
-10:30		Day two Operations / User management, ..
+10:45		BREAK
 
-11:00		Break
+11:00		Day two Operations / User management, ..
 
-11:10		Backup and Disaster Recovery
+11:40		Backup and Disaster Recovery
 
-12:10		Break
+12:30		Break
 
-13:10		OpenShift Virtualisation
+13:30		OpenShift Virtualisation
 
 14:00		OpenShift Security		
 
-15:00		Operator Framework and HELM		
+15:00		BREAK
+
+15:15   Operator Framework and HELM		
 
 16:00		Cont Self Learning and Assessment
 
