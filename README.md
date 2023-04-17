@@ -1,9 +1,9 @@
 <img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version V0223
+## remote version V0423
 
-## Google Meet link: https://meet.google.com/htb-wfqo-apj
+## Google Meet link: https://meet.google.com/aus-amsh-xwo
 
 ## https://www.menti.com/wq7y7j1wjd
 
