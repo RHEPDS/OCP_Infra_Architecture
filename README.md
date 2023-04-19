@@ -39,13 +39,13 @@
 
 9:00		Introduction Day 2
 
-9:10		OpenShift Install		
+9:15		OpenShift Install		
 
-10:45		BREAK
+10:15		BREAK
 
-11:00		Day two Operations / User management, ..
+10:30		Day two Operations / User management, ..
 
-11:40		Backup and Disaster Recovery
+11:30		Backup and Disaster Recovery
 
 12:30		Break
 
