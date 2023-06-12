@@ -10,7 +10,7 @@
 ## Self learning Sessions
 
 ### DO180 Red Hat OpenShift I: Containers & Kubernetes 
-### https://connect.redhat.com/en/training/course-catalog?m=c&id=45314150&utm_source=LOC
+### https://connect.redhat.com/en/training/course-catalog?m=c&id=46105986&utm_source=LOC
 
 ### DO280 Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster
 ### https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
