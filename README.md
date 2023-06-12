@@ -3,7 +3,7 @@
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## remote version V0623
 
-## Google Meet link: https://meet.google.com/aus-amsh-xwo
+## Google Meet link: https://meet.google.com/uko-hean-sao
 
 ## https://www.menti.com/wq7y7j1wjd
 
