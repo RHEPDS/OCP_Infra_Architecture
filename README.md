@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/OCP_Infra_Architecture/blob/main/logo.png" width="450" height="120">
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version V0623
+## remote version V0823
 
 ## Google Meet link: https://meet.google.com/iau-hiae-tmm
 
