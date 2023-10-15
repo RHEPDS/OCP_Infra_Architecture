@@ -31,9 +31,9 @@
 
 15:00		Break
 
-15:15		Microshift / HyperShift		
+16:15 	Microshift / HyperShift		
 
-16:16		Self learning OCP Foundation
+17:00   Self learning OCP Foundation
 
 ### Day 2:
 
