@@ -1,13 +1,13 @@
 <img src="https://github.com/RHEPDS/OCP_Infra_Architecture/blob/main/logo.png" width="450" height="120">
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version V1023
+## remote version V12/2023
 
-## Google Meet link: https://meet.google.com/ixh-bztd-tkk
+## Google Meet link: https://meet.google.com/hof-umzz-qsv
 
 ## https://www.menti.com/wq7y7j1wjd
 
-## Self learning Sessions
+## Self-learning Sessions
 
 ### DO180 Red Hat OpenShift I: Containers & Kubernetes 
 ### https://connect.redhat.com/en/training/course-catalog?m=c&id=46105986&utm_source=LOC
@@ -23,7 +23,7 @@
 
 9:30		OpenShift Architecture P1		
 
-12:30		Break
+12:00		Break
 
 13:30		OpenShift Architecture P2
 
@@ -33,7 +33,7 @@
 
 16:15 	Microshift / HyperShift		
 
-17:00   Self learning OCP Foundation
+17:00   Self-learning OCP Foundation
 
 ### Day 2:
 
@@ -57,6 +57,6 @@
 
 15:15   Operator Framework and HELM		
 
-16:00		Cont Self Learning and Assessment
+16:00		Cont Self-Learning and Assessment
 
 
