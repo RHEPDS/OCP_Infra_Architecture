@@ -23,7 +23,7 @@
 
 9:30		OpenShift Architecture P1		
 
-12:00		Break
+12:30		Break
 
 13:30		OpenShift Architecture P2
 
@@ -45,9 +45,9 @@
 
 10:30		Day two Operations / User management, ..
 
-11:30		Backup and Disaster Recovery
+12:00		Break
 
-12:30		Break
+13:00		Backup and Disaster Recovery
 
 13:30		OpenShift Virtualisation
 
