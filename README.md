@@ -27,11 +27,9 @@
 
 14:30		Workload on OpenShift
 
-15:00		Break
+15:00   Microshift / HyperShift		
 
-15:15 	Microshift / HyperShift		
-
-16:00   Self-learning OCP Foundation
+15:30   Self-learning OCP Foundation
 
 ### Day 2:
 
@@ -51,10 +49,8 @@
 
 14:00		OpenShift Security		
 
-15:00		BREAK
+15:00		Operator Framework and HELM		
 
-15:15   Operator Framework and HELM		
-
-16:00		Cont Self-Learning and Assessment
+15:30		Cont Self-Learning and Assessment
 
 
