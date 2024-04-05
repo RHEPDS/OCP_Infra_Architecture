@@ -47,7 +47,7 @@
 
 13:30		OpenShift Virtualisation
 
-14:00		OpenShift Security		
+14:30		OpenShift Security		
 
 15:00		Operator Framework and HELM		
 
