@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/OCP_Infra_Architecture/blob/main/logo.png" width="450" height="120">
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version V01/2024
+## remote version V05/2024
 
 ## https://www.menti.com/wq7y7j1wjd
 
