@@ -38,7 +38,7 @@
 
 10:15		BREAK
 
-10:30		Day two Operations / User management, ..
+10:30		Day two Operations / User management, .. > https://drive.google.com/file/d/1cuFjTpf6mACxhPDXaCs5gnwaxxCgE-2S/view?usp=drive_link
 
 12:00		Break
 
