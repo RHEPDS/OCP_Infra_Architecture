@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/OCP_Infra_Architecture/blob/main/logo.png" width="450" height="120">
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
-## remote version V11/2024
+## remote version V12/2024
 
 ## https://www.menti.com/wq7y7j1wjd
 
@@ -11,6 +11,9 @@
 ### https://connect.redhat.com/en/training/course-catalog?m=c&id=56834126&utm_source=LOC
 ### DO280 Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster
 ### https://connect.redhat.com/en/training/course-catalog?m=c&id=56845884&utm_source=LOC
+
+### DO322 OpenSHift Install
+### https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800093
 
 ## Agenda:
 
